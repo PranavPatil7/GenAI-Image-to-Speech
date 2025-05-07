@@ -1,14 +1,6 @@
 # 🖼️Image to Speech GenAI Tool Using LLM 🌟♨️
 AI tool that generates an Audio short story based on the context of an uploaded image by prompting a GenAI LLM model, Hugging Face AI models together with OpenAI &amp; LangChain. Deployed on Streamlit & Hugging Space Cloud Separately.
 
-## 📢Run App with Streamlit Cloud
-
-[Launch App On Streamlit](https://image-to-speech-genai-tool-using-llm.streamlit.app/)
-
-## 📢Run App with HuggingFace Space Cloud
-
-[Launch App On HuggingFace Space](https://huggingface.co/spaces/GurpreetKJ/Image-to-SpeechStory_GenAI-Tool)
-
 
 ## 🎯 Demo:
 ![Demo 1: Couple Test Image Output](img-audio/CoupleOutput.jpg)
@@ -88,13 +80,6 @@ Run the Streamlit app:
 `streamlit run app.py`
 
 
-## ©️ License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-#### **If you like this LLM Project do drop ⭐ to this repo and Contributions are welcome! If you have any suggestions for improving this AI Img-Speech Converter, please submit a pull request.💁**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
 
 ---
